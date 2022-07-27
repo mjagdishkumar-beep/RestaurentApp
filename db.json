@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Taaz",
+      "email": "taaz@gmail.com",
+      "mobile": "1234567890",
+      "address": "anywhere",
+      "services": "biryani"
+    }
+  ],
+  "Signup": [
+    {
+      "name": "uno do",
+      "mobile": "12275646747",
+      "email": "unodo@gmail.com",
+      "password": "qwerty",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
